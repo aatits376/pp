@@ -84,5 +84,16 @@
         "liveLink": "https://dharmub376.github.io/Translation-App/",
         "previewSrc": "assets/img/projects/TA.png",
         "previewAlt": "DB website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/projects.png",
+        "faviconAlt": "FA website favicon",
+        "heading": "Future Apparel Clone",
+        "description": "Future Apparel: Generate a unique and personalized uniform for your needs. You have the option to select from our existing designs or opt for a special design consultation with our talented designer. Either way, the outcome will be extraordinary!",
+        "githubLink": "https://github.com/Dharmub376/future-apperal-clone",
+        "liveLink": "https://future-apperal-clone.vercel.app",
+        "previewSrc": "assets/img/projects/FA.png",
+        "previewAlt": "FA website preview image"
     }
 ]
