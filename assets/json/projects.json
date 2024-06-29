@@ -1,0 +1,88 @@
+[
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/DY.png",
+        "faviconAlt": "Bhusal Tours website favicon",
+        "heading": "Bhusal Tours",
+        "description": "Bhusal Tours: Your gateway to seamless travel experiences. Book bus tickets online effortlessly and explore the world with confidence and convenience. Whether you're commuting or planning an adventure, Bhusal Tours transforms your journey into a hassle-free and enjoyable experience.",
+        "githubLink": "https://github.com/Dharmub376/Dy_Frontend",
+        "liveLink": "https://dy-frontend.vercel.app",
+        "previewSrc": "assets/img/projects/DY.png",
+        "previewAlt": "Bhusal Tours website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/CSITHUB.png",
+        "faviconAlt": "Csithub website favicon",
+        "heading": "CSIT Hub",
+        "description": "CSITHub: Your ultimate resource for Computer Science and Information Technology studies. Share and access notes, questions, books, and practical topics with ease. Elevate your learning experience and stay ahead in your courses with CSITHub, where knowledge meets convenience.",
+        "githubLink": "https://github.com/Dharmub376/CSIT-Hub",
+        "liveLink": "https://csithub.netlify.app",
+        "previewSrc": "assets/img/projects/CSITHUB.png",
+        "previewAlt": "Csithub website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/BLOG.png",
+        "faviconAlt": "Blog website favicon",
+        "heading": "Dharmu Blogs",
+        "description": "Blogging Website: Your go-to destination for all things IT. Dive into insightful posts on the latest in technology, software, and programming. Whether you're a tech enthusiast or a seasoned professional, Dharmu Blogs offers valuable content to keep you informed and inspired in the ever-evolving world of IT.",
+        "githubLink": "https://github.com/Dharmub376/blog",
+        "liveLink": "https://dharmub376.blogspot.com",
+        "previewSrc": "assets/img/projects/BLOG.png",
+        "previewAlt": "Blog website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/DSEWA.png",
+        "faviconAlt": "Dsewa website favicon",
+        "heading": "dsewa",
+        "description": "dSewa: Your all-in-one digital wallet solution. Experience seamless, secure, and convenient transactions at your fingertips. From payments and transfers to managing your finances, dSewa simplifies your digital life, making everyday financial tasks effortless and efficient.",
+        "githubLink": "https://github.com/Dharmub376/dsewa",
+        "liveLink": "https://dsewa.netlify.app",
+        "previewSrc": "assets/img/projects/DSEWA.png",
+        "previewAlt": "Dsewa website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/BKP.png",
+        "faviconAlt": "BKP website favicon",
+        "heading": "Bhusal Kirana Pasal",
+        "description": "Bhusal Kirana Pasal: Your online destination for fresh and quality groceries. Shop a wide range of products from the comfort of your home and enjoy fast, reliable delivery. With Bhusal Kirana Pasal, stocking your kitchen with essentials has never been easier or more convenient.",
+        "liveLink": "https://bbhusal.com.np",
+        "previewSrc": "assets/img/projects/BKP.png",
+        "previewAlt": "BKP website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/DB.png",
+        "faviconAlt": "DB website favicon",
+        "heading": "Portfolio Website",
+        "description": "Dharmu Bhusal Portfolio: Explore the professional journey and creative projects of Dharmu Bhusal. From innovative IT solutions to insightful blog posts, discover a showcase of expertise and passion. Dive into a world of technology and creativity, and see how Dharmu Bhusal is making an impact in the IT industry.",
+        "liveLink": "https://dharmubhusal.pages.dev/",
+        "previewSrc": "assets/img/projects/DB.png",
+        "previewAlt": "DB website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/KK.png",
+        "faviconAlt": "Kitkat website favicon",
+        "heading": "No Code: Kitkat Web",
+        "description": "No Code: Kitkat Web: Discover the delicious world of Kitkat like never before with our beautifully crafted website built using Mobirise. Explore the rich flavors and crisp wafers of Kitkat through an engaging, user-friendly experience. Dive into the sweetness with ease and enjoy a seamless journey through our chocolate-filled universe.",
+        "githubLink": "https://github.com/Dharmub376/Kitkat",
+        "liveLink": "https://dharmub376.github.io/Kitkat/",
+        "previewSrc": "assets/img/projects/KK.png",
+        "previewAlt": "DB website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/projects.png",
+        "faviconAlt": "Kitkat website favicon",
+        "heading": "Translation App",
+        "description": "TranslateEase: Your ultimate destination for seamless language translation. Our website offers fast, accurate translations to help you communicate effortlessly across the globe. Whether for business, travel, or personal use, TranslateEase connects you with the world, breaking down language barriers one word at a time.",
+        "githubLink": "https://github.com/Dharmub376/Translation-App",
+        "liveLink": "https://dharmub376.github.io/Translation-App/",
+        "previewSrc": "assets/img/projects/TA.png",
+        "previewAlt": "DB website preview image"
+    }
+]
