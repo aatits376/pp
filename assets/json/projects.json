@@ -95,5 +95,16 @@
         "liveLink": "https://future-apperal-clone.vercel.app",
         "previewSrc": "assets/img/projects/FA.png",
         "previewAlt": "FA website preview image"
+    },
+    {
+        "id": "project-box2",
+        "faviconSrc": "assets/img/favicons/projects.png",
+        "faviconAlt": "FP website favicon",
+        "heading": "Future Apparel Clone",
+        "description": "Fonepay: Your all-in-one digital wallet solution. Experience seamless, secure, and convenient transactions at your fingertips. From payments and transfers to managing your finances, dSewa simplifies your digital life, making everyday financial tasks effortless and efficient.",
+        "githubLink": "https://github.com/Dharmub376/fonepay",
+        "liveLink": "https://fonepay.vercel.app",
+        "previewSrc": "assets/img/projects/FP.png",
+        "previewAlt": "FP website preview image"
     }
 ]
