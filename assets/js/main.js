@@ -1,7 +1,7 @@
 // Get references to elements
 var audio = document.getElementById("audioPlayer");
 var loader = document.getElementById("preloader");
-var emptyArea = document.getElementById("emptyarea");
+// var emptyArea = document.getElementById("emptyarea");
 var mobileToggleMenu = document.getElementById("mobiletogglemenu");
 var myButton = document.getElementById("backtotopbutton");
 
