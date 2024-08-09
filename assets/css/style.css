@@ -244,9 +244,8 @@ header {
     align-items: flex-end;
     justify-content: center;
 }
-
-#preloader {
-    background-color: white;
+#preloader{
+    background-color:white;
     height: 100%;
     width: 100%;
     position: fixed;
@@ -255,10 +254,11 @@ header {
     align-items: center;
     justify-content: center;
     overflow-y: hidden;
-    background-image: url(/assets/img/wired-lineal-1704-flower-doodle.gif);
+    background-image:url(/assets/favicons/pleading.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 10%;
+    filter: invert(1);
 
 }
 
