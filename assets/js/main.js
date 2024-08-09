@@ -1,6 +1,6 @@
 // Get references to elements
 var audio = document.getElementById("audioPlayer");
-var loader = document.getElementById("preloader");
+//var loader = document.getElementById("preloader");
 // var emptyArea = document.getElementById("emptyarea");
 var mobileToggleMenu = document.getElementById("mobiletogglemenu");
 var myButton = document.getElementById("backtotopbutton");
@@ -31,10 +31,10 @@ function visualmode() {
 }
 
 // Event listener to hide preloader on load
-window.addEventListener("load", function () {
-    loader.style.display = "none"; // Hide preloader
-    document.querySelector(".hey").classList.add("popup"); // Show popup
-});
+//window.addEventListener("load", function () {
+//    loader.style.display = "none"; // Hide preloader
+//    document.querySelector(".hey").classList.add("popup"); // Show popup
+//});
 
 // Function to toggle hamburger menu
 function hamburgerMenu() {
