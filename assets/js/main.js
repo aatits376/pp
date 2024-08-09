@@ -1,9 +1,9 @@
 // Get references to elements
 // preloader script............
 var audio = document.getElementById("audioPlayer");
-var loader = document.getElementById("preloader");
+//var loader = document.getElementById("preloader");
 window.addEventListener("load", function () {
-  loader.style.display = "none";
+  //loader.style.display = "none";
   document.querySelector('.hey').classList.add('popup');
 })
 
