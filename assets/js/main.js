@@ -1,29 +1,25 @@
 // Get references to elements
-// preloader script............
 var audio = document.getElementById("audioPlayer");
-//var loader = document.getElementById("preloader");
-window.addEventListener("load", function () {
-  //loader.style.display = "none";
-  document.querySelector('.hey').classList.add('popup');
-})
+var emptyArea = document.getElementById("emptyarea");
+var mobileToggleMenu = document.getElementById("mobiletogglemenu");
+var myButton = document.getElementById("backtotopbutton");
 
-// preloader script ends here.........
-
-// switch for setting
-function settingtoggle(){
-  document.getElementById("setting-container").classList.toggle('settingactivate');
-  document.getElementById("visualmodetogglebuttoncontainer").classList.toggle('visualmodeshow');
-  document.getElementById("soundtogglebuttoncontainer").classList.toggle('soundmodeshow');
+// Function to toggle settings
+function settingtoggle() {
+    document.getElementById("setting-container").classList.toggle("settingactivate");
+    document.getElementById("visualmodetogglebuttoncontainer").classList.toggle("visualmodeshow");
+    document.getElementById("soundtogglebuttoncontainer").classList.toggle("soundmodeshow");
 }
-function playpause() {
-  if (document.getElementById('switchforsound').checked == false) {
-    audio.pause();
-   }
 
- else{
-     audio.play();
- }
-  }
+// Function to play or pause audio
+function playpause() {
+    var switchForSound = document.getElementById("switchforsound");
+    if (!switchForSound.checked) {
+        audio.pause();
+    } else {
+        audio.play();
+    }
+}
 
 // Function to toggle visual mode
 function visualmode() {
@@ -34,10 +30,10 @@ function visualmode() {
 }
 
 // Event listener to hide preloader on load
-//window.addEventListener("load", function () {
-//    loader.style.display = "none"; // Hide preloader
-//    document.querySelector(".hey").classList.add("popup"); // Show popup
-//});
+window.addEventListener("load", function () {
+    loader.style.display = "none"; // Hide preloader
+    document.querySelector(".hey").classList.add("popup"); // Show popup
+});
 
 // Function to toggle hamburger menu
 function hamburgerMenu() {
@@ -129,12 +125,6 @@ window.addEventListener("scroll", throttle(function() {
     highlightActiveSection();
 }, 100)); // Adjust throttle timing as needed
 
-// Prevent right-click on images
-document.addEventListener("contextmenu", function (e) {
-    if (e.target.nodeName === "IMG") {
-        e.preventDefault();
-    }
-}, false);
 
 // Mouse move and resize listeners for tilt effect
 window.addEventListener("mousemove", mouseMove);
